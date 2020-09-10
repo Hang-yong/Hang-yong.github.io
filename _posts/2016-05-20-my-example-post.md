@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Sample"
+title:  "样品"
 subtitle: "A longer explanation of stuff"
 date:   2016-05-20 21:21:21 +0530
 categories: ["general"]
