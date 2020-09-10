@@ -6,8 +6,6 @@ date:   2016-05-20 21:21:21 +0530
 categories: ["学习笔记"]
 ---
 
-# 搭建个人技术博客
-
 > 使用GitHub Pages + Jekyll 快速部署个人博客
 
 > - GitHub Pages

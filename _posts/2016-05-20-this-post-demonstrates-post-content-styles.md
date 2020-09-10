@@ -3,7 +3,7 @@ layout: page
 title: "海螺的声音"
 subtitle: "This is a subtitle"
 date:   2016-05-20 21:21:21 +0530
-categories: junk
+categories: 记录生活
 author: "Bart Simpson"
 meta: "Springfield"
 ---
