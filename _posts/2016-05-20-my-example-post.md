@@ -1,16 +1,20 @@
 ---
 layout: page
-title:  "样品"
+title:  "搭建个人技术博客"
 subtitle: "A longer explanation of stuff"
 date:   2016-05-20 21:21:21 +0530
-categories: ["general"]
+categories: ["学习笔记"]
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+# 搭建个人技术博客
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
+> 使用GitHub Pages + Jekyll 快速部署个人博客
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+> - GitHub Pages
+>   - 定义：给所有的git用户提供的个人主页
+>   - 如何访问:个人域名 用户名.github.io
+>   - 如何编写主页: 建立一个用个人域名为项目名的远程版本仓库，只需要向该远程版本仓库中的master分支提交代码即可
+> - Jekyll
+>   - 定义：可以将markdown语法自动编译成html语法的一个工具
+>   - 安装：不需要自己安装，在github网站当中预安装的
+>   - 使用：当你请求你的个人域名的时候，github服务器会读取仓库（以个人域名命名的那个远程版本仓库）中的markdown分支中的代码，如果该代码为markdown语法会自动调用jekyll将其编译为html代码并返回客户端
