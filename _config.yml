@@ -1,15 +1,15 @@
 # Site settings
-title: Hang-yong
+title: 陈焕镛的个人博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  一个简单的，最小的Jekyll主题为个人网页和博客
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://Hang-yong.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Hang-yong
-  github: github
-  email: 115727780@qq.com
+  github: https://github.com/Hang-yong/Hang-yong.github.io
+  email: 1157277830@qq.com
 
 
 # Syntax highlighting
