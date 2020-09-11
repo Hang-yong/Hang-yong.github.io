@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "git软件的认识"
-subtitle: "A minimal Jekyll theme"
+subtitle: "Git software"
 date:   2016-05-20 21:21:21 +0530
 categories: ["学习笔记"]
 ---
