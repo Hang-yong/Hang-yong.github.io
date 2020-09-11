@@ -21,8 +21,8 @@ categories: ["学习笔记"]
 > - 访问网站：一个主题网站 http://Jekyllthemes.org/. 选择一个主题将其代码复制到我们的仓库master分支
 > - 以上两步可以合并为一步，在主题仓库点击fork，点击setting设置仓库名，即可
 > - 将远程版本库的代码克隆到本地
-    > - 点击头像，点code  复制资料
-    > - 在文件打开终端执行克隆 
+>     - 点击头像，点code  复制资料
+>     - 在文件打开终端执行克隆 
        `git clone -b master https://hang-yonbg.com/hang-yong/hang-yong.github.io.git myBlog`
 > - 修改配置文件以及页面内容
 > - 书写博客
